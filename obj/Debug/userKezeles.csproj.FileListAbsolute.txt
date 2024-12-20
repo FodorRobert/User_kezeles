@@ -1,0 +1,5 @@
+C:\Users\fodorr\Gitwork\userKezeles\obj\Debug\userKezeles.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\userKezeles\obj\Debug\userKezeles.Form1.resources
+C:\Users\fodorr\Gitwork\userKezeles\obj\Debug\userKezeles.Properties.Resources.resources
+C:\Users\fodorr\Gitwork\userKezeles\obj\Debug\userKezeles.csproj.GenerateResource.cache
+C:\Users\fodorr\Gitwork\userKezeles\obj\Debug\userKezeles.csproj.CoreCompileInputs.cache
